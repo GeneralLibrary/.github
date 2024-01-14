@@ -1,7 +1,5 @@
 ###  Recruitment of project participants
 
-<img src="./imgs/iwantyou.jpg" alt="iwantyou" style="zoom:50%;" />
-
 🎉🎉🎉 We're looking for you who are passionate about open source projects and passionate about programming!🔍🔍🔍
 
 Our project GeneralUpdate is an excellent version update library, which provides a variety of update modes, download methods, and UI choices to help developers implement version update functions in their applications.
