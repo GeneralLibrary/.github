@@ -1,6 +1,6 @@
 ###  Recruitment of project participants
 
-<img src="[.github/profile/imgs/iwantyou.jpg at main · GeneralLibrary/.github](https://github.com/GeneralLibrary/.github/blob/main/profile/imgs/iwantyou.jpg)" alt="iwantyou" style="zoom:50%;" />
+<img src="./imgs/iwantyou.jpg" alt="iwantyou" style="zoom:50%;" />
 
 🎉🎉🎉 We're looking for you who are passionate about open source projects and passionate about programming!🔍🔍🔍
 
